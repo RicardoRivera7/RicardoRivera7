@@ -4,9 +4,14 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+ 
 
 <h2>Certifications</h2>
-- <b>CompTIA Security+</b>
+
+ - [CompTIA Security+](https://drive.google.com/file/d/189yjvXqCD07E6NFu5unzdU4_NubhBBlU/view?usp=sharing)
+
+
+
 
 
 
