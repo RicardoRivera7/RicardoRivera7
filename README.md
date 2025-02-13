@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ricardo! <br/> <a href="https://www.linkedin.com/in/rrivera007">IT Professional</a></h1>
+<h1>Hi, I'm Ricardo! <br/> <a href="https://www.linkedin.com/in/rrivera007"> <br/> IT Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
