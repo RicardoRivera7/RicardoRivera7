@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [Home Firewall Setup](https://github.com/RicardoRivera7/HomeFireWall)
  
 
 <h2>Certifications</h2>
