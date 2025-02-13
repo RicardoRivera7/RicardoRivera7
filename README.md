@@ -2,8 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
- - [Home Firewall Setup](https://github.com/RicardoRivera7/HomeFireWall)
- 
+ - [Homelab Guide Setup with IDS](https://github.com/RicardoRivera7/HomeLabSetupGuide)
+   <br/>
+ - [Home Firewall Setup](https://github.com/RicardoRivera7/HomeFireWall) 
+   
 
 <h2>Certifications</h2>
 
