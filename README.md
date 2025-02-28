@@ -2,9 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
- - [Homelab Guide Setup with IDS](https://github.com/RicardoRivera7/HomeLabSetupGuide) <br/> 
+ - [Homelab Guide Setup with IDS](https://github.com/RicardoRivera7/HomeLabSetupGuide) <br/>  
  - [Home Firewall Setup](https://github.com/RicardoRivera7/HomeFireWall) <br/>
  - [Active Directory with Users](https://github.com/RicardoRivera7/ActiveDirectorywithUsers)
+ - [Home SOC Using Azure Cloud (WiP)](https://github.com/RicardoRivera7/HomeSOCUsingCloud)
    
    
 
