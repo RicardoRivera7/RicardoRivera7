@@ -25,7 +25,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="RicardoRivera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/@dcp-ui/icons.linkedin@1.0.0/+esm" />][linkedin]
+[<img align="left" alt="RicardoRivera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/@welcome-ui/icons.linkedin@4.2.0/dist/icons.linkedin.cjs.min.js" />][linkedin]
 
 
 
