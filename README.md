@@ -19,10 +19,10 @@
     - [Exploiting a D-Link Camera - Paper](https://www.arcadia.edu/wp-content/uploads/2022/10/Ricardo_Rivera_D-Link_camera_exploitation.pdf)
  
 
-<h2>CTF Write-Ups</h2>
+<h2>CTF Write-Ups</h2> 
 
 - TryHackMe
-    - Pickle Rick CTF
+    - [Pickle Rick CTF](https://github.com/RicardoRivera7/PickleRickCTF_Writeup) <br/>
 
 
 
