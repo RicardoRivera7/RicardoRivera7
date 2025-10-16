@@ -23,6 +23,7 @@
 
 - TryHackMe
     - [Pickle Rick CTF](https://github.com/RicardoRivera7/PickleRickCTF_Writeup) <br/>
+    - [Shadow Trace CTF](https://github.com/RicardoRivera7/ShadowTraceCTF_Writeup) <br/>
 
 
 
