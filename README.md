@@ -29,8 +29,7 @@
  <h2>Coding Projects & Scripts</h2> 
 
  - Scripts
-    - [Bash-Auto-update.sh](https://github.com/RicardoRivera7/-Bash-Auto-update.sh) <br/>
-    - [Bash-THM.sh](https://github.com/RicardoRivera7/Bash-THM.sh) <br/>
+    - [Bash-Auto-update.sh](https://github.com/RicardoRivera7/-Bash-Auto-update.sh)  | [Bash-THM.sh](https://github.com/RicardoRivera7/Bash-THM.sh) 
 
     
  - Coding
