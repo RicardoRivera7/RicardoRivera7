@@ -26,6 +26,13 @@
     - [Shadow Trace CTF](https://github.com/RicardoRivera7/ShadowTraceCTF_Writeup) <br/>
 
 
+ <h2>Coding Projects & Scripts</h2> 
+
+ - Scripts
+    - [Bash-Auto-update.sh](https://github.com/RicardoRivera7/-Bash-Auto-update.sh) <br/>
+
+
+
 
 
 
