@@ -32,6 +32,10 @@
     - [Bash-Auto-update.sh](https://github.com/RicardoRivera7/-Bash-Auto-update.sh) <br/>
     - [Bash-THM.sh](https://github.com/RicardoRivera7/Bash-THM.sh) <br/>
 
+    
+ - Coding
+   - [YuGiOh Card Battle](https://github.com/RicardoRivera7/YuGiOh_Card_Battle) <br/>
+
 
 
 
