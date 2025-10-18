@@ -33,7 +33,7 @@
 
     
  - Coding
-   - [YuGiOh Card Battle](https://github.com/RicardoRivera7/YuGiOh_Card_Battle) <br/>
+   - [YuGiOh Card Battle](https://github.com/RicardoRivera7/YuGiOh_Card_Battle)  | [DnD Sorting](https://github.com/RicardoRivera7/DnDSorting)
 
 
 
