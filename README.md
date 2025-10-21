@@ -34,7 +34,7 @@
 
     
  - Coding
-   - [YuGiOh Card Battle](https://github.com/RicardoRivera7/YuGiOh_Card_Battle)  | [DnD Sorting](https://github.com/RicardoRivera7/DnDSorting) | [Shut The Box Game](https://github.com/RicardoRivera7/Shut_The_Box_Game) | [UDP Chat Room](https://github.com/RicardoRivera7/UDP_Chat_Room)
+   - [YuGiOh Card Battle](https://github.com/RicardoRivera7/YuGiOh_Card_Battle)  | [DnD Sorting](https://github.com/RicardoRivera7/DnDSorting) | [Shut The Box Game](https://github.com/RicardoRivera7/Shut_The_Box_Game) | [UDP Chat Room](https://github.com/RicardoRivera7/UDP_Chat_Room) | [Hexidecimal Converter](https://github.com/RicardoRivera7/Hexidecimal_Converter)
 
 
 
