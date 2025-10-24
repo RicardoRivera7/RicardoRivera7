@@ -26,6 +26,9 @@
     - [Pickle Rick CTF](https://github.com/RicardoRivera7/PickleRickCTF_Writeup) <br/>
     - [Shadow Trace CTF](https://github.com/RicardoRivera7/ShadowTraceCTF_Writeup) <br/>
 
+- HackTheBox
+    - [Expressway CTF](https://github.com/RicardoRivera7/Expressway_CTF_Writeup) <br/>
+
 
  <h2>Coding Projects & Scripts</h2> 
 
