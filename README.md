@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
  - [Homelab Guide Setup with IDS](https://github.com/RicardoRivera7/HomeLabSetupGuide) <br/>  
- - [Home Firewall Setup with DMZ](https://github.com/RicardoRivera7/HomeFireWall) <br/>
+ - [Home Firewall Setup (with DMZ)](https://github.com/RicardoRivera7/HomeFireWall) <br/>
  - [Active Directory with Users](https://github.com/RicardoRivera7/ActiveDirectorywithUsers)
  - [SuiteTooth Framework](https://github.com/RicardoRivera7/SuiteTooth_Framework)
  - [Home SOC Using Azure Cloud (WiP)](https://github.com/RicardoRivera7/HomeSOCUsingCloud)
