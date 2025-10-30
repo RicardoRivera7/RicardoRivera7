@@ -6,7 +6,7 @@
  - [Home Firewall Setup (with DMZ)](https://github.com/RicardoRivera7/HomeFireWall) <br/>
  - [Active Directory with Users](https://github.com/RicardoRivera7/ActiveDirectorywithUsers)
  - [SuiteTooth Framework](https://github.com/RicardoRivera7/SuiteTooth_Framework)
- - [Home SOC Using Azure Cloud and Microsoft Sentinel)](https://github.com/RicardoRivera7/HomeSOCUsingCloud)
+ - [Home SOC Using Azure Cloud and Microsoft Sentinel](https://github.com/RicardoRivera7/HomeSOCUsingCloud)
    
    
 
