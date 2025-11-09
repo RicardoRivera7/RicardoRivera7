@@ -15,6 +15,10 @@
 
  - [CompTIA Security+](https://drive.google.com/file/d/189yjvXqCD07E6NFu5unzdU4_NubhBBlU/view?usp=sharing)
 
+<h2>Badges</h2>
+
+ - [AWS Cloud Practitioner](https://www.credly.com/badges/0eb5e8b9-5cd0-4670-b99e-42eb4fb6824e/public_url)
+
 <h2>Publications</h2>
 
 - [Exploiting a D-Link Camera - Website](https://www.arcadia.edu/student-life/meet-our-students/fordv/ricardo-rivera-on-exploiting-vulnerabilities-in-d-link-cameras/)
