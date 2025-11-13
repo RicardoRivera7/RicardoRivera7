@@ -14,10 +14,11 @@
 <h2>Certifications</h2>
 
  - [CompTIA Security+](https://drive.google.com/file/d/189yjvXqCD07E6NFu5unzdU4_NubhBBlU/view?usp=sharing)
+ - [AWS Cloud Practitioner](https://drive.google.com/file/d/189yjvXqCD07E6NFu5unzdU4_NubhBBlU/view?usp=sharing)
 
 <h2>Badges</h2>
 
- - [AWS Cloud Practitioner](https://www.credly.com/badges/0eb5e8b9-5cd0-4670-b99e-42eb4fb6824e/public_url)
+ - [AWS Cloud Practitioner (Hands-On Training)](https://www.credly.com/badges/0eb5e8b9-5cd0-4670-b99e-42eb4fb6824e/public_url)
 
 <h2>Publications</h2>
 
