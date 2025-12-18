@@ -15,6 +15,7 @@
 
  - [CompTIA Security+](https://drive.google.com/file/d/189yjvXqCD07E6NFu5unzdU4_NubhBBlU/view?usp=sharing)
  - [AWS Cloud Practitioner](https://www.credly.com/badges/bbf62aca-1576-4896-b923-01046110566b/public_url)
+ - [CompTIA Network+](https://www.credly.com/badges/8b6da972-1cc4-41a9-91cf-93ef1a244222/public_url)
 
 <h2>Badges</h2>
 
