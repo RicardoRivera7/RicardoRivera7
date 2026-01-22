@@ -9,6 +9,8 @@
  - [Home SOC Using Azure Cloud and Microsoft Sentinel](https://github.com/RicardoRivera7/HomeSOCUsingCloud)
  - [Automation Recconissance Framework](https://github.com/RicardoRivera7/Automation_Recconissance_Framework)
  - [Secure Azure Tenant (Zero Trust & Entra ID)](https://github.com/RicardoRivera7/SecureAzureTenant-ZeroTrust-EntraID-)
+ - [Microsoft Exchange Email Security](https://github.com/RicardoRivera7/Microsoft_Exchange_Email_Security)
+   
    
    
 
