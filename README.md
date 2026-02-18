@@ -1,6 +1,6 @@
-<h1>Hi, I'm Ricardo! <br/> <a href="https://www.linkedin.com/in/rrivera007"> <br/> Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Ricardo! <br/> <a href="https://www.linkedin.com/in/rrivera007"> <br/> IT Professional</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻Projects:</h2>
 
  - [Homelab Guide Setup with IDS](https://github.com/RicardoRivera7/HomeLabSetupGuide) <br/>  
  - [Home Firewall Setup (with DMZ)](https://github.com/RicardoRivera7/HomeFireWall) <br/>
