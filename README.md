@@ -1,9 +1,6 @@
 <h1>Hi, I'm Ricardo! <br/> <a href="https://www.linkedin.com/in/rrivera007"> <br/> Software Test Engineer | QA Automation, Performance, Security </a></h1>
 
-
-<kbd>[**Visit our Website**](https://example.com)</kbd>
-
-[![Button Alt Text](https://img.shields.io)](https://your-link-url.com)
+<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-passing?style=plastic&logo=javascript&color=D3D3D3">
 
 <h2>👨‍💻Projects:</h2>
 
