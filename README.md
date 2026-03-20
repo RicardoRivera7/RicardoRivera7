@@ -89,7 +89,7 @@
 <br/>
 <br/>
 
-## My Contribution Graph
+## Contribution Graph
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RicardoRivera7/RicardoRivera7/output/pacman-contribution-graph-dark.svg">
