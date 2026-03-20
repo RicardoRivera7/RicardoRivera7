@@ -12,6 +12,9 @@
 <a href="https://www.linkedin.com/in/rrivera007">
 <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-passing?style=for-the-badge&color=0002c9">
 </a>
+<a href="https://tryhackme.com/p/CrazyDiamond4">
+<img alt="Static Badge" src="https://img.shields.io/badge/TryHackMe-passing?style=for-the-badge&logo=tryhackme&color=d50a0a">
+</a>
 </p>
 
 
