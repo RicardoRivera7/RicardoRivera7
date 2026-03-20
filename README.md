@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ricardo! <br/> <a href="https://www.linkedin.com/in/rrivera007"> <br/> Software Test Engineer | QA Automation, Performance, Security </a></h1>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Java-passing?style=plastic&logo=java&color=3658ff"> <img alt="Static Badge" src="https://img.shields.io/badge/Python-passing?style=plastic&logo=python&color=38ed2c">
+               <img alt="Static Badge" src="https://img.shields.io/badge/Java-passing?style=plastic&logo=java&color=3658ff"> <img alt="Static Badge" src="https://img.shields.io/badge/Python-passing?style=plastic&logo=python&color=38ed2c">
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-passing?style=plastic&logo=javascript&color=615f5f"> <img alt="Static Badge" src="https://img.shields.io/badge/Selenium-passing?style=plastic&logo=selenium&logoColor=000101&color=00d3ce">
 
 
