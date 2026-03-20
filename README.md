@@ -9,9 +9,10 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rrivera007">
-<img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-passing?style=for-the-badge&color=0002c9&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frrivera007">
+<img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-passing?style=for-the-badge&color=0002c9">
 </a>
- </p>
+</p>
+
 
 <p align="center"> 
 <img alt="Static Badge" src="https://img.shields.io/badge/Java-passing?style=plastic&logo=java&color=3658ff"> <img alt="Static Badge" src="https://img.shields.io/badge/Python-passing?style=plastic&logo=python&color=38ed2c">
