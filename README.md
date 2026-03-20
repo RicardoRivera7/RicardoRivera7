@@ -36,23 +36,23 @@
    
    
 
-<h2>Certifications</h2>
+<h2>⭐Certifications</h2>
 
  - [CompTIA Security+](https://drive.google.com/file/d/189yjvXqCD07E6NFu5unzdU4_NubhBBlU/view?usp=sharing)
  - [AWS Cloud Practitioner](https://www.credly.com/badges/bbf62aca-1576-4896-b923-01046110566b/public_url)
  - [CompTIA Network+](https://www.credly.com/badges/8b6da972-1cc4-41a9-91cf-93ef1a244222/public_url)
 
-<h2>Badges</h2>
+<h2>🎖️Badges</h2>
 
  - [AWS Cloud Practitioner (Hands-On Training)](https://www.credly.com/badges/0eb5e8b9-5cd0-4670-b99e-42eb4fb6824e/public_url)
 
-<h2>Publications</h2>
+<h2>📜Publications</h2>
 
 - [Exploiting a D-Link Camera - Website](https://www.arcadia.edu/student-life/meet-our-students/fordv/ricardo-rivera-on-exploiting-vulnerabilities-in-d-link-cameras/)
     - [Exploiting a D-Link Camera - Paper](https://www.arcadia.edu/wp-content/uploads/2022/10/Ricardo_Rivera_D-Link_camera_exploitation.pdf)
  
 
-<h2>CTF Write-Ups</h2> 
+<h2>✍️CTF Write-Ups</h2> 
 
 - TryHackMe
     - [Pickle Rick CTF](https://github.com/RicardoRivera7/PickleRickCTF_Writeup) <br/>
@@ -62,7 +62,7 @@
     - [Expressway CTF](https://github.com/RicardoRivera7/Expressway_CTF_Writeup) <br/>
 
 
- <h2>Coding Projects & Scripts</h2> 
+ <h2>🛠️Coding Projects & Scripts</h2> 
 
  - Scripts
     - [Bash-Auto-update.sh](https://github.com/RicardoRivera7/-Bash-Auto-update.sh)   |   [Bash-THM.sh](https://github.com/RicardoRivera7/Bash-THM.sh) |  [Bash-HTB.sh](https://github.com/RicardoRivera7/Bash-HTB.sh) 
