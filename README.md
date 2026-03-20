@@ -8,10 +8,10 @@
 
 
 <p align="center">
+<img alt="Static Badge" src="https://img.shields.io/badge/Rmrivera007%40gmail.com-passing?style=for-the-badge&logo=gmail&color=ffffff">
 <a href="https://www.linkedin.com/in/rrivera007">
 <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-passing?style=for-the-badge&color=0002c9">
 </a>
-<img alt="Static Badge" src="https://img.shields.io/badge/Rmrivera007%40gmail.com-passing?style=for-the-badge&logo=gmail&color=ffffff">
 </p>
 
 
