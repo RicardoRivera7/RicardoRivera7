@@ -4,9 +4,6 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-passing?style=for-the-badge&color=0002c9&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frrivera007">
  </p>
 
-
-<br/>
-<br/>
 <p align="center"> 
 <img alt="Static Badge" src="https://img.shields.io/badge/Java-passing?style=plastic&logo=java&color=3658ff"> <img alt="Static Badge" src="https://img.shields.io/badge/Python-passing?style=plastic&logo=python&color=38ed2c">
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-passing?style=plastic&logo=javascript&color=615f5f"> <img alt="Static Badge" src="https://img.shields.io/badge/Selenium-passing?style=plastic&logo=selenium&logoColor=000101&color=00d3ce">
