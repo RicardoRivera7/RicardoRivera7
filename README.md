@@ -15,6 +15,9 @@
 <a href="https://tryhackme.com/p/CrazyDiamond4">
 <img alt="Static Badge" src="https://img.shields.io/badge/TryHackMe-passing?style=for-the-badge&logo=tryhackme&color=d50a0a">
 </a>
+<a href="https://app.hackthebox.com/public/users/459820">
+<img alt="Static Badge" src="https://img.shields.io/badge/HacktheBox-passing?style=for-the-badge&logo=hackthebox&color=8f00d3">
+</a>
 </p>
 
 
