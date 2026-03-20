@@ -81,14 +81,10 @@
 
 
 
-<h2> 🤳 Connect with me:</h2>
-
+<!-- <h2> 🤳 Connect with me:</h2>
 [<img align="left" alt="RicardoRivera | LinkedIn" width="22px" src="https://www.clipartmax.com/png/small/117-1174941_color-circle-linkedin-icon-png-png-images-icon-png-linkedin-blue.png" />][linkedin]
-
-
-
 [linkedin]: https://www.linkedin.com/in/rrivera007
-
+-->
 
 
 <br/>
