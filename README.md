@@ -48,8 +48,8 @@
 
 <h2>📜Publications</h2>
 
-- [Exploiting a D-Link Camera - Website](https://www.arcadia.edu/student-life/meet-our-students/fordv/ricardo-rivera-on-exploiting-vulnerabilities-in-d-link-cameras/)
-    - [Exploiting a D-Link Camera - Paper](https://www.arcadia.edu/wp-content/uploads/2022/10/Ricardo_Rivera_D-Link_camera_exploitation.pdf)
+<!-- - [Exploiting a D-Link Camera - Website](https://www.arcadia.edu/student-life/meet-our-students/fordv/ricardo-rivera-on-exploiting-vulnerabilities-in-d-link-cameras/) -->
+   - [Exploiting a D-Link Camera - Paper](https://www.arcadia.edu/wp-content/uploads/2022/10/Ricardo_Rivera_D-Link_camera_exploitation.pdf)
  
 
 <h2>✍️CTF Write-Ups</h2> 
