@@ -8,7 +8,7 @@
 
 
 <p align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-passing?style=for-the-badge&color=0002c9&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frrivera007">
+<object alt="Static Badge" src="https://img.shields.io/badge/Linkedin-passing?style=for-the-badge&color=0002c9&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frrivera007">
  </p>
 
 <p align="center"> 
