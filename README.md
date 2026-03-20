@@ -75,11 +75,6 @@
 
 
 
-
-
-
-
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="RicardoRivera | LinkedIn" width="22px" src="https://www.clipartmax.com/png/small/117-1174941_color-circle-linkedin-icon-png-png-images-icon-png-linkedin-blue.png" />][linkedin]
@@ -89,3 +84,10 @@
 [linkedin]: https://www.linkedin.com/in/rrivera007
 
 
+## My Contribution Graph
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+</picture>
