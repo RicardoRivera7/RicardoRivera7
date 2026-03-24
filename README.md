@@ -29,7 +29,7 @@
 
 
 
-<h2>👨‍💻Projects:</h2>
+<h2>👨‍💻Projects</h2>
 
  - [Homelab Guide Setup with IDS](https://github.com/RicardoRivera7/HomeLabSetupGuide) <br/>  
  - [Home Firewall Setup (with DMZ)](https://github.com/RicardoRivera7/HomeFireWall) <br/>
