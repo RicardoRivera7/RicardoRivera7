@@ -29,8 +29,7 @@
 
 
 
-<h2>👨‍💻Projects</h2>
-
+<h2>👨‍💻Projects</h2> 
  - [Homelab Guide Setup with IDS](https://github.com/RicardoRivera7/HomeLabSetupGuide) <br/>  
  - [Home Firewall Setup (with DMZ)](https://github.com/RicardoRivera7/HomeFireWall) <br/>
  - [Active Directory with Users](https://github.com/RicardoRivera7/ActiveDirectorywithUsers)
@@ -39,6 +38,7 @@
  - [Automation Reconnissance Framework](https://github.com/RicardoRivera7/Automation_Recconissance_Framework)
  - [Secure Azure Tenant (Zero Trust & Entra ID)](https://github.com/RicardoRivera7/SecureAzureTenant-ZeroTrust-EntraID-)
  - [Microsoft Exchange Email Security](https://github.com/RicardoRivera7/Microsoft_Exchange_Email_Security)
+ - [Automated Bug Detector](https://github.com/RicardoRivera7/AutomatedBugDetector) 
    
    
    
