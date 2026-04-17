@@ -81,7 +81,8 @@
  - Coding
    - [JavaScript & Playwright Automation](https://github.com/RicardoRivera7/JavaScriptAutomation) | [Python Automated Bug Detector](https://github.com/RicardoRivera7/AutomatedBugDetector) | [YuGiOh Card Battle](https://github.com/RicardoRivera7/YuGiOh_Card_Battle)  | [DnD Sorting](https://github.com/RicardoRivera7/DnDSorting) | [Shut The Box Game](https://github.com/RicardoRivera7/Shut_The_Box_Game) | [UDP Chat Room](https://github.com/RicardoRivera7/UDP_Chat_Room) | [Hexidecimal Converter](https://github.com/RicardoRivera7/Hexidecimal_Converter) | [Morse Code Translator](https://github.com/RicardoRivera7/Morse_Code_Translator)
 
-
+ - Other Fun Stuff
+    - [FastFetch Cyberpunk Config](https://github.com/RicardoRivera7/JavaScriptAutomation)   
 
 <!-- <h2> 🤳 Connect with me:</h2>
 [<img align="left" alt="RicardoRivera | LinkedIn" width="22px" src="https://www.clipartmax.com/png/small/117-1174941_color-circle-linkedin-icon-png-png-images-icon-png-linkedin-blue.png" />][linkedin]
